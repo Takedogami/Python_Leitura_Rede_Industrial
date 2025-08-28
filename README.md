@@ -1,0 +1,1 @@
+# Python_Leitura_Rede_Industrial
